@@ -34,6 +34,8 @@ The dataset includes the following fields:
 
 ## 📷 Sample Visualisation
 
-![Sales Dashboard](./path-to-image/sales-dashboard.png)
+![Screenshot (427)](https://github.com/user-attachments/assets/e2e041bc-6484-46dc-be77-206389c98729)
+
+
 
 > Replace the image path with the actual path where you store your Power BI screenshot in the repo.
